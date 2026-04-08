@@ -1,0 +1,30 @@
+# OPC Hub 目录索引
+# 此文件由 scripts/build_index.py 手动构建，请勿直接编辑
+# 最后构建时间: 请运行 build_index.py 更新
+
+meta:
+  total: 1
+  last_built: ""
+  version: "1.0"
+
+members:
+  - handle: example
+    name: 示例用户
+    title: 全栈开发者 / 独立产品人
+    skills:
+      - React开发
+      - Node.js
+      - 产品设计
+    industries:
+      - SaaS
+      - 企业服务
+    location: 上海
+    available: true
+    looking_for:
+      - 产品合伙人
+      - 前端外包合作
+    contact:
+      website: https://example.com
+      github: https://github.com/example
+    established: 2023
+    file: members/example.md
