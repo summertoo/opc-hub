@@ -1,0 +1,13 @@
+{
+  "schema": "clawhub.identity.v1",
+  "publisher": "summertoo",
+  "clawhub_id": "summertoo@clawhub.ai",
+  "clawhub_profile": "https://clawhub.ai/p/summertoo",
+  "created": "2026-04-12T19:30:00+08:00",
+  "contributors": ["etboodXJ"],
+  "skills": ["opc-hub"],
+  "repo": "https://github.com/summertoo/opc-hub",
+  "contact": {
+    "github": "https://github.com/summertoo"
+  }
+}
