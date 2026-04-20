@@ -1,3 +1,6 @@
+# OPC Network 
+![opcnetwork](./img/opcnew.jpg)
+
 # OPC Hub 🌐
 
 **开源一人公司（OPC）协作网络** — 让百万超级个体互相发现、互相成就。
